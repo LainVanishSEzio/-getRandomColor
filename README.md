@@ -4,4 +4,15 @@
 
 Thanks to these wonderful people for their contributions:
 
-- [@MuaTea](https://github.com/MuaTea)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MuaTea"><img src="https://avatars.githubusercontent.com/MuaTea?v=4" width="100px;" alt=""/><br /><sub><b>MuaTea</b></sub></a><br /><a href="https://github.com/-getRandomColor/commits?author=LainVanishSEzio" title="Code">💻</a></td>
+    <!-- Repeat for each contributor -->
+  </tr>
+</table>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+https://api.github.com/LainVanishSEzio/-getRandomColor/contributors
