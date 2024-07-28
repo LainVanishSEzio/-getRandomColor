@@ -4,4 +4,4 @@
 
 Thanks to these wonderful people for their contributions:
 
-- [@username](https://github.com/MuaTea)
+- [@MuaTea](https://github.com/MuaTea)
