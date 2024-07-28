@@ -15,4 +15,4 @@ Thanks to these wonderful people for their contributions:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-https://api.github.com/LainVanishSEzio/-getRandomColor/contributors
+
