@@ -1,8 +1,25 @@
 {
   "projectName": "-getRandomColor",
   "projectOwner": "LainVanishSEzio",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "MuaTea",
+      "name": "MuaTea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110844348?v=4",
+      "profile": "https://github.com/MuaTea",
+      "contributions": [
+        "bug",
+        "design",
+        "code"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
 }
